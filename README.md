@@ -71,12 +71,10 @@ Ce dashboard centralise les indicateurs clés de 4 secteurs d'activité d'un gro
     ├── analyse_formation.png
     ├── analyse_voyage.png
     └── analyse_immobilier.png
-```
-
-> ⚠️ Pense à renommer `dashboard.pbix` avec le nom réel de ton fichier Power BI, et à ajuster le dossier `data/` selon tes sources (Excel, SQL, API…).
 
 ---
 
+```
 ## 🚀 Comment utiliser ce projet
 
 1. Cloner le dépôt :
