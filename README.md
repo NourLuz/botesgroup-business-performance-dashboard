@@ -114,9 +114,9 @@ Ce dashboard centralise les indicateurs clés de 4 secteurs d'activité d'un gro
 
 ## 👤 Auteur
 
-**[Ton nom]**
-📧 [ton.email@example.com]
-🔗 [LinkedIn / Portfolio]
+**Nourdine Luzayangamo**
+📧 [Nourdineluzaya@example.com]
+🔗 [Linkedin.com/in/Nourdine Luzayangamo]
 
 ---
 
