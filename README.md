@@ -61,8 +61,8 @@ Ce dashboard centralise les indicateurs clés de 4 secteurs d'activité d'un gro
 
 ```
 ├── README.md
-├── dashboard.pbix          # Fichier Power BI principal (à renommer selon ton fichier)
-├── data/                   # Sources de données (à adapter selon ton projet)
+├── dashboard.pbix          
+├── data/                    Dataset_Groupe_Multisectoriel_NourdineLuz
 └── screenshots/
     ├── accueil.png
     ├── performance_rentabilite.png
